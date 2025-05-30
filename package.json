@@ -42,7 +42,7 @@
     "@fortawesome/react-fontawesome": "^0.1.11",
     "bookbrainz-data": "5.1.1",
     "chart.js": "^2.9.4",
-    "chartjs-adapter-date-fns": "^1.0.0",
+    "chartjs-adapter-date-fns": "^3.0.0",
     "classnames": "^2.3.2",
     "compression": "^1.7.4",
     "connect-redis": "^7.0.0",
